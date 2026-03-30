@@ -108,13 +108,14 @@ Si alguien más encuentra tu bot, no puede hacer nada.
 
 ## 📸 Screenshots
 
-*(agregá capturas del bot funcionando en Telegram)*
+![TeleBot PC Control](ChatBot1.jpeg)
+![TeleBot PC Control 2](ChatBot2.jpeg)
 
 ---
 
 ## 👤 Autor
 
-**Luis García** — [@LuisGarcia-InfoSec](https://www.linkedin.com/in/LuisGarcia-InfoSec)  
+**Luis García** — [@LuisGarcia-InfoSec](https://www.linkedin.com/in/luis-garc%C3%ADa-8138762b6/)  
 Analista de Ciberseguridad & Forense Digital · Buenos Aires, Argentina  
 🌐 [proyects-luis.netlify.app](https://proyects-luis.netlify.app)
 
